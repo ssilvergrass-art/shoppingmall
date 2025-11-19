@@ -82,3 +82,4 @@ src/
 - [shadcn/ui 컴포넌트 목록](https://ui.shadcn.com/docs/components)
 - 프로젝트 설정: `components.json` 파일 참조
 
+
